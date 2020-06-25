@@ -1,0 +1,17 @@
+#test {
+    font-size: 52px;
+    color: crimson;
+}
+
+.nav-link {
+    font-size: 1em;
+}
+.navbar-link {
+    text-decoration: none;
+    color: darksalmon;
+}
+
+.navbar-link:hover {
+    color: peru;
+    font-weight: 700;
+}
