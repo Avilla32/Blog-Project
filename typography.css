@@ -18,14 +18,12 @@ h3 {
     font-size: 1.2em;
 }
 
-.nav-link {
-    font-size: 15px;
-}
 
 .navbar-link {
     font-family: 'Lato', sans-serif;
     font-weight: 500;
     letter-spacing: 1em;
+    font-size: 1.2em;
 }
 
 .navbar-link {
