@@ -30,7 +30,11 @@
 #logo {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: baseline;
+    height: 100%;
+}
+
+.title-container {
     height: 100%;
 }
 
