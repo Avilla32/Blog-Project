@@ -27,11 +27,6 @@
     padding: 5px;
 }
 
-.logo-title {
-    font-size: 1.25em;
-    font-weight: 700;
-}
-
 #logo {
     display: flex;
     flex-direction: row;
