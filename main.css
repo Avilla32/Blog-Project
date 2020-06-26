@@ -75,3 +75,7 @@
 .content{
     margin: 2em;
 }
+
+footer {
+    grid-area: bt;
+}
