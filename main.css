@@ -7,7 +7,7 @@
     border: 2px solid;
     grid-template-areas:
         "top top top top"
-        "contl cont cont contr"
+        "cont cont cont cont"
         "bt bt bt bt";
 }
 
