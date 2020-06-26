@@ -47,6 +47,7 @@
 .link-holder {
     display: flex;
     flex-direction: row;
+    width: auto;
 }
 
 .nav-link-container {
