@@ -38,6 +38,7 @@
     height: 100%;
     flex-direction: column;
     justify-content: flex-end;
+    margin-top: -.1em;
 }
 
 #logo-pic {
