@@ -7,7 +7,7 @@
     border: 2px solid;
     grid-template-areas:
         "top top top top"
-        "cont cont cont cont"
+        "contl cont cont contr"
         "bt bt bt bt";
 }
 
@@ -52,6 +52,10 @@
 
 .nav-link-container {
     margin: 0em 2em;
+}
+
+.content {
+    grid-area: cont;
 }
 
 .card {
