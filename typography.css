@@ -19,11 +19,11 @@ h3 {
 }
 
 
-.navbar-link {
+.navbar{
     font-family: 'Lato', sans-serif;
     font-weight: 500;
     letter-spacing: 1em;
-    font-size: 1.2em;
+    font-size: 16px;
 }
 
 .navbar-link {
