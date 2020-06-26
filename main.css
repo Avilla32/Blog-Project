@@ -56,10 +56,12 @@
 
 #one {
     grid-area: cont;
+    width: 100%;
 }
 
 #two {
     grid-area: cont;
+    width: 100%;
 }
 
 .card {
@@ -71,8 +73,4 @@
   /* Add rounded corners to the top left and the top right corner of the image */
   img {
     border-radius: 5px 5px 0 0;
-  }
-  
-  .card img {
-      width: 100%;
   }
