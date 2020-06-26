@@ -56,12 +56,10 @@
 
 #one {
     grid-area: cont2;
-    width: 100%;
 }
 
 #two {
     grid-area: cont3;
-    width: 100%;
 }
 
 .card {
