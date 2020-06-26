@@ -37,7 +37,7 @@
     align-items: baseline;
     height: 100%;
     flex-direction: column;
-    justify-content: baseline;
+    justify-content: flex-end;
 }
 
 #logo-pic {
