@@ -29,11 +29,12 @@
 #logo {
     display: flex;
     flex-direction: row;
-    align-items: baseline;
     height: 100%;
 }
 
 #title-container {
+    display: flex;
+    align-items: baseline;
     height: 100%;
 }
 
