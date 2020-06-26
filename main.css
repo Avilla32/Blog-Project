@@ -54,7 +54,11 @@
     margin: 0em 2em;
 }
 
-.content {
+#one {
+    grid-area: cont;
+}
+
+#two {
     grid-area: cont;
 }
 
