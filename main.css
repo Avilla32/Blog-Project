@@ -4,7 +4,6 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 75px 1fr 75px;
-    border: 2px solid;
     grid-template-areas:
         "top top top top"
         "cont1 cont2 cont3 cont4"
