@@ -80,3 +80,9 @@ footer {
     grid-area: bt;
     background-color: #fffff9;
 }
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
