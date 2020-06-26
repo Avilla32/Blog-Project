@@ -7,7 +7,7 @@
     border: 2px solid;
     grid-template-areas:
         "top top top top"
-        "cont cont cont cont"
+        "cont1 cont2 cont3 cont4"
         "bt bt bt bt";
 }
 
@@ -55,12 +55,12 @@
 }
 
 #one {
-    grid-area: cont;
+    grid-area: cont2;
     width: 100%;
 }
 
 #two {
-    grid-area: cont;
+    grid-area: cont3;
     width: 100%;
 }
 
@@ -74,3 +74,6 @@
   img {
     border-radius: 5px 5px 0 0;
   }
+.content{
+    margin: .5em;
+}
