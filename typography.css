@@ -35,11 +35,12 @@ h3 {
 .navbar-link {
     text-decoration: none;
     color: darksalmon;
+    transition: all .2s ease-in-out; 
 }
 
 .navbar-link:hover {
     color: peru;
-    font-weight: 700;
+    transform: scale(1.1);
 }
 
 footer {
@@ -56,13 +57,11 @@ footer {
 }
 
 .button-link {
+    transition: all .2s ease-in-out;
     text-decoration: none;
+    color: #fffff9;
 }
 
 .button-link :hover {
-    transform: scale(2em);
-}
-
-.card-buton {
-    color: #fffff9;
+    transform: scale(1.1);
 }
