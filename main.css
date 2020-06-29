@@ -70,10 +70,9 @@ body {
     transition: 0.3s;
     border-radius: 5px;
     width: 100%;
-    /* 5px rounded corners */
+    background-color: #fffff9;
 }
 
-/* Add rounded corners to the top left and the top right corner of the image */
 .card img {
     border-radius: 5px 5px 0 0;
     width: 100%;
@@ -109,4 +108,5 @@ footer {
     border: none;
     padding: .3em 1em;
     margin: auto;
+    display: block;
 }
