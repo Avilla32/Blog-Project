@@ -71,20 +71,18 @@ footer {
 
 .article-description-sidebar {
     font-size: .85em;
-    text-decoration: none;
+    color: #A05F7E
 }
 
 .article-title-sidebar {
     font-weight: 600;
     font-size: 1.25em;
     margin: .2em;
-    text-decoration: none;
     color: #A05F7E;
 }
 
 .related-articles-headline {
     font-size: 1.5em;
-    text-decoration: none;
     color: #A05F7E;
 }
 
