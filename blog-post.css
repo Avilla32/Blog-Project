@@ -10,7 +10,7 @@
 
 #article {
     grid-area: main;
-    margin-top: 1em;
+    margin: 1em 2em 0em 0em;
 }
 
 .article-wrapper {
