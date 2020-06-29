@@ -104,8 +104,9 @@ footer {
     background-color: #A05F7E;
     font-size: 1.5em;
     color: white;
-    width: 70%;
+    width: auto;
     border-radius: .5em;
     border: none;
-    padding-bottom: .3em;
+    padding: .3em;
+    margin: auto;
 }
