@@ -91,9 +91,10 @@ footer {
 }
 
 .side-bar-article {
-    border: 1px solid transparent;
+    border: 2px solid transparent;
+    padding: .5em;
 }
 
 .side-bar-article:hover {
-    border: 1px solid #A05F7E;
+    border: 2px solid #A05F7E;
 }
