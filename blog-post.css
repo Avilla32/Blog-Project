@@ -10,11 +10,14 @@
 
 #article {
     grid-area: main;
+    margin-top: 1em;
 }
 
 .article-wrapper {
     display: flex;
     flex-direction: column;
+    background-color: #fffff9;
+    padding: 2em;
 }
 
 .article-image {
@@ -38,9 +41,4 @@
 
 #fb-button {
     padding-bottom: .3em;
-}
-
-.article-wrapper {
-    background-color: #fffff9;
-    padding: 2em;
 }
