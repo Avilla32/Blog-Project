@@ -1,6 +1,6 @@
 .blog-grid-cont {
     display: grid;
-    grid-template-columns: 1fr 1fr 200px 1fr;
+    grid-template-columns: 1fr 1fr 300px 1fr;
     grid-template-rows: 50px 1fr 50px;
     grid-template-areas:
         "top top top top"
