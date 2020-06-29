@@ -62,3 +62,7 @@ footer {
 .button-link :hover {
     transform: scale(2em);
 }
+
+.card-buton {
+    color: #fffff9;
+}
