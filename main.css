@@ -31,6 +31,11 @@ body {
     display: flex;
     flex-direction: row;
     height: 100%;
+    margin-left: 2em;
+}
+
+.logo-link {
+    width: 50px;
 }
 
 #title-container {
