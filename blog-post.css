@@ -48,8 +48,13 @@
     background-color: #fffff9;
     display: flex;
     flex-direction: column;
+    margin-top: 3em;
 }
 
 .side-bar-article img {
     width: 100%;
+}
+
+.related-articles-wrapper {
+    padding: 1em;
 }
