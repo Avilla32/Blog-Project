@@ -66,8 +66,10 @@
                         href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fblog-project-udacity.netlify.app%2Fblog-1&amp;src=sdkpreparse"
                         class="fb-xfbml-parse-ignore">Share</a>
                 </div>
-                <a href="http://www.linkedin.com/shareArticle?mini=true&url=<?php the_permalink(); ?>&title=<?php the_title(); ?>&source=ADD_YOUR_BLOG_URL_HERE"><img src="ADD_IMAGE_URL_HERE"></a>
-                
+                <a
+                    href="http://www.linkedin.com/shareArticle?mini=true&url=<?php the_permalink(); ?>&title=<?php the_title(); ?>&source=https://blog-project-udacity.netlify.app/blog-1"><img
+                        src="https://raw.githubusercontent.com/Avilla32/Blog-Project/master/images/Bike.jpg?token=AK7YUBMP7OIP6SDKJ5S6BEC7ANZPK"></a>
+
                 <script async src="https://static.addtoany.com/menu/page.js"></script>
                 <script async src="https://static.addtoany.com/menu/page.js"></script>
                 <a class="twitter-share-button" href="https://twitter.com/intent/tweet" data-size="large"
@@ -75,12 +77,17 @@
                     data-hashtags="example,demo" data-via="twitterdev" data-related="twitterapi,twitter">
                     Tweet
                 </a>
+
+                <a
+                    href="https://www.linkedin.com/shareArticle?mini=true&url=https://blog-project-udacity.netlify.app/blog-1&title=What A Ride&summary=https://blog-project-udacity.netlify.app/&source=What A Blog">Share
+                    on LinkedIn</a>
             </div>
 
 
         </section>
 </body>
-    <script> window.twttr = (function (d, s, id) {
+<script>
+    window.twttr = (function (d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0],
             t = window.twttr || {};
         if (d.getElementById(id)) return t;
