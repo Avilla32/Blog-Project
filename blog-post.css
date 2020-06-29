@@ -21,7 +21,12 @@
     width: 600px;
 }
 
-
+.social-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-content: space-between;
+}
 
 .linkedin-logo {
     width: 76px;
