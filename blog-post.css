@@ -17,7 +17,7 @@
     flex-direction: column;
 }
 
-.article-image{ 
+.article-image {
     width: 600px;
 }
 
@@ -36,11 +36,11 @@
     margin-right: .3em;
 }
 
-#fb-button{ 
+#fb-button {
     padding-bottom: .3em;
 }
 
-.article-wrapper{
+.article-wrapper {
     background-color: #fffff9;
     padding: 2em;
 }
