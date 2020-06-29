@@ -68,3 +68,12 @@ footer {
     text-decoration: none;
     color: #fffff9;
 }
+
+.article-description-sidebar {
+    font-size: .75em;
+}
+
+.article-title-sidebar {
+    font-weight: 600;
+    font-size: 1.25em;
+}
