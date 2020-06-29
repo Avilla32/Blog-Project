@@ -71,6 +71,7 @@ footer {
 
 .article-description-sidebar {
     font-size: .85em;
+    text-decoration: none;
 }
 
 .article-title-sidebar {
@@ -85,4 +86,8 @@ footer {
     font-size: 1.5em;
     text-decoration: none;
     color: #A05F7E;
+}
+
+.side-bar-article a {
+    text-decoration: none;
 }
