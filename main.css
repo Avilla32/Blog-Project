@@ -99,3 +99,10 @@ footer {
     text-align: center;
     display: block;
 }
+
+.card-button {
+    background-color: #A05F7E;
+    font-size: 1.5em;
+    color: white;
+    width: 70%;
+}
