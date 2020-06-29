@@ -9,7 +9,7 @@
 }
 
 #article {
-    grid-area: cont1 cont2 cont3;
+    grid-area: cont2 cont3;
 }
 
 .article-wrapper {
