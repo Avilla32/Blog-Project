@@ -89,3 +89,11 @@ footer {
 .side-bar-article a {
     text-decoration: none;
 }
+
+.side-bar-article {
+    border: 1px solid transparent;
+}
+
+.side-bar-article:hover {
+    border: 1px solid #A05F7E;
+}
