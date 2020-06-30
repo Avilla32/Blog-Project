@@ -14,6 +14,7 @@
         "cont1 cont2 cont3 cont4"
         "bt bt bt bt";
 }
+}
 
 body {
     background-color: cadetblue;
@@ -128,5 +129,4 @@ footer {
     padding: .3em 1em;
     margin: auto;
     display: block;
-}
 }
