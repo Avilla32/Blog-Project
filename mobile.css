@@ -40,4 +40,8 @@ body {
     font-weight: 500;
 }
 
+.nav-link-container {
+    margin: 8px;
+}
+
 }
