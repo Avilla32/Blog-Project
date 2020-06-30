@@ -32,18 +32,4 @@ body {
     justify-content: center;
 }
 
-.nav-bar {
-    height: 50px;
-}
-
-.nav-bar {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    grid-area: top;
-    align-items: center;
-    background-color: #fffff9;
-    padding: .2em 0em;
-}
-
 }
