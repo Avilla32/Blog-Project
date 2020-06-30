@@ -130,3 +130,43 @@ footer {
     display: block;
 }
 
+
+@media(min-width:300px)and(max-width:600px) {
+    .grid-cont {
+        display: grid;
+        height: 100%;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 50px 1fr 1fr 50px;
+        grid-template-areas:
+            "top top"
+            "cont2 cont2"
+            "cont3 cont3"
+            "bt bt";
+    }
+    
+    body {
+        background-color: red;
+        min-height: 100vh;
+        margin: 0px;
+        display: grid;
+    }
+    
+    #one {
+        grid-area: cont2;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    #two {
+        grid-area: cont3;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .nav-bar {
+        height: 50px;
+    }
+    
+    }
