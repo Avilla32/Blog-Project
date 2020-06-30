@@ -1,5 +1,6 @@
 @import url("typography.css");
 @import url("blog-post.css");
+@import url("mobile.css");
 
 .grid-cont {
     display: grid;
@@ -53,6 +54,7 @@ body {
 #logo-pic {
     height: 100%;
     width: auto;
+    display: block;
 }
 
 .link-holder {
