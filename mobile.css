@@ -18,7 +18,7 @@ body {
 }
 
 #one {
-    grid-area: cont1;
+    grid-area: cont1 !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
