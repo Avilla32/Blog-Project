@@ -27,7 +27,7 @@ body {
     grid-area: top;
     align-items: center;
     background-color: #fffff9;
-
+    padding: .2em 0em;
 }
 
 #logo {
