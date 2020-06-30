@@ -61,6 +61,10 @@
             ". main . ."
             "bt bt bt bt";
     }
+
+    #sidebar {
+        display: none !important;
+    }
     
 
 }
