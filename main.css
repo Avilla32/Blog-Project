@@ -67,10 +67,16 @@ body {
 
 #one {
     grid-area: cont2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 #two {
     grid-area: cont3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .card {
