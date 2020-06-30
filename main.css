@@ -2,6 +2,7 @@
 @import url("blog-post.css");
 @import url("mobile.css");
 
+@media(min-width:601px){
 .grid-cont {
     display: grid;
     height: 100%;
@@ -11,6 +12,7 @@
         "top top top top"
         "cont1 cont2 cont3 cont4"
         "bt bt bt bt";
+}
 }
 
 body {
