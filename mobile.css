@@ -51,8 +51,8 @@ body {
 }
 
 #logo-pic {
-    height: auto;
-    width: 30px;
+    height: auto !important;
+    width: 30px !important;
 }
 
 }
