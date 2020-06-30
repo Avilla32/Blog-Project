@@ -50,4 +50,9 @@ body {
     min-width: 100vw;
 }
 
+#logo-pic {
+    height: auto;
+    width: 30px;
+}
+
 }
