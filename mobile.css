@@ -45,4 +45,8 @@ body {
     font-size: 10px !important;
 }
 
+.nav-bar {
+    min-width: 100vw;
+}
+
 }
