@@ -32,7 +32,7 @@ body {
 }
 
 #logo {
-    margin-left: .2em;
+    margin-left: .2em !important;
 }
 
 .logo-title {
