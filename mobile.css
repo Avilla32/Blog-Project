@@ -1,5 +1,6 @@
 @media only screen and (min-width:300px) and (max-width:600px) {
 
+    /*
 .grid-cont {
     display: grid;
     height: 100%;
@@ -10,7 +11,7 @@
         "cont2 cont2"
         "cont3 cont3"
         "bt bt";
-}
+}*/
 
 body {
     background-color: red;
