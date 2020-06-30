@@ -59,7 +59,7 @@
         grid-template-rows: 50px 1fr 50px;
         grid-template-areas:
             "top top top top"
-            ". main main ."
+            "main main main main"
             "bt bt bt bt";
     }
 
