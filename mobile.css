@@ -11,45 +11,45 @@
             "bt bt bt bt" !important;
     }
 
-body {
-    min-height: 100vh;
-    margin: 0px;
-    display: grid;
-}
+    body {
+        min-height: 100vh;
+        margin: 0px;
+        display: grid;
+    }
 
-#one {
-    grid-area: cont1 !important;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
+    #one {
+        grid-area: cont1 !important;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 
-#two {
-    display: none !important;
-}
+    #two {
+        display: none !important;
+    }
 
-#logo {
-    margin-left: .2em !important;
-    align-items: center;
-}
+    #logo {
+        margin-left: .2em !important;
+        align-items: center;
+    }
 
-.logo-title {
-    font-size: 14px;
-    font-weight: 500;
-}
+    .logo-title {
+        font-size: 14px;
+        font-weight: 500;
+    }
 
-.nav-link-container {
-    margin: 8px !important;
-    font-size: 10px !important;
-}
+    .nav-link-container {
+        margin: 8px !important;
+        font-size: 10px !important;
+    }
 
-.nav-bar {
-    min-width: 100vw;
-}
+    .nav-bar {
+        min-width: 100vw;
+    }
 
-#logo-pic {
-    height: auto !important;
-    width: 30px !important;
-}
+    #logo-pic {
+        height: auto !important;
+        width: 30px !important;
+    }
 
 }
