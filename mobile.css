@@ -71,4 +71,8 @@
         margin: 1em;
     }
 
+    .article-image{
+        width: 250px;
+    }
+
 }
