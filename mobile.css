@@ -41,7 +41,8 @@ body {
 }
 
 .nav-link-container {
-    margin: 8px;
+    margin: 8px !important;
+    font-size: 10px !important;
 }
 
 }
