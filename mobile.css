@@ -33,6 +33,7 @@ body {
 
 #logo {
     margin-left: .2em !important;
+    align-items: center;
 }
 
 .logo-title {
