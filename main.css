@@ -132,3 +132,8 @@ footer {
     margin: auto;
     display: block;
 }
+
+.image-description {
+    align-self: center;
+    font-size: .75em;
+}
