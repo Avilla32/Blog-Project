@@ -19,7 +19,6 @@
     }
 
     #one {
-        grid-area: cont1 !important;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -78,5 +77,10 @@
     .article-wrapper {
         padding: .5em;
     }
-
+    
+    .mobile-wrapper {
+        grid-area: cont1 !important;
+        display: flex;
+        flex-direction: column;
+    }
 }
