@@ -4,7 +4,7 @@
         display: grid;
         height: 100%;
         grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-template-rows: 50px 1fr 1fr 50px;
+        grid-template-rows: 50px 1fr 50px;
         grid-template-areas:
             "top top top top"
             "cont cont1 cont1 cont4"
@@ -66,12 +66,12 @@
     #sidebar {
         display: none !important;
     }
-    
+
     #article {
         margin: 1em;
     }
 
-    .article-image{
+    .article-image {
         width: 100%;
     }
 
